@@ -28,6 +28,7 @@
     <img src="git push.png" alt="git push" width="400">
 
    Fungsi git push adalah untuk mengirim perubahan (commit) dari repositori lokal ke repositori remote, misalnya GitHub. Dengan push, kode yang sudah kita simpan di lokal akan tersinkronisasi ke server.
+   
 
 
    
