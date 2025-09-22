@@ -7,6 +7,7 @@
 
 1. **clone repository**:
    Pertama saya membuat repository "p03-dasar-dasar-git-amaa1345" di GitHub, Kemudian di salin ke komputer lokal dengan menggunakan perintah berikut:
+   
    <img src="git clone.png" alt="git clone" width="400">
 
   Setelah berhasil di-clone, saya menambahkan file baru dengan git add lalu menyimpannya menggunakan git commit -m "Menambahkan file1.txt". Perubahan tersebut kemudian saya kirim ke GitHub menggunakan perintah git push origin main. Selanjutnya, saya mencoba menarik update terbaru dari repository GitHub dengan git fetch origin dan git pull origin main, yang berhasil menambahkan perubahan dari server ke lokal.
